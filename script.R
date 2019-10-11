@@ -5,3 +5,5 @@ Read data file
 run analysis 
 
 Save table
+
+Save small figure
