@@ -7,3 +7,5 @@ run analysis
 Save table
 
 Save small figure
+
+Publish in Nature
